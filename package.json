@@ -1,0 +1,32 @@
+{
+  "name": "js-performance-analyse",
+  "version": "1.0.3",
+  "description": "The js-performance-analyse library as Front-end performance monitoring",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanfeiyan123/js-performance-analyse.git"
+  },
+  "keywords": [
+    "analyse",
+    "performance",
+    "browser"
+  ],
+  "author": {
+    "name": "nanfeiyan",
+    "email": "3328921305@qq.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/nanfeiyan123/js-performance-analyse/issues"
+  },
+  "homepage": "https://github.com/nanfeiyan123/js-performance-analyse#readme"
+}
