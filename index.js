@@ -46,13 +46,24 @@
           },
           {
             key: 'DOMContentLoaded',
-            desc: 'dom\u52a0\u8f7d\u5b8c\u6210\u7684\u65f6\u95f4',
+            desc:
+              'dom\u52a0\u8f7d\u5b8c\u6210\u7684\u65f6\u95f4\u0028\u7528\u6237\u53ef\u64cd\u4f5c\u65f6\u95f4\u8282\u70b9\u0029',
             value: t.domContentLoadedEventEnd - r,
           },
           {
             key: 'Loaded',
             desc: '\u9875\u9762load\u7684\u603b\u8017\u65f6',
             value: t.loadEventEnd - r,
+          },
+          {
+            key: 'White Screen',
+            desc: '\u767d\u5c4f\u65f6\u95f4',
+            value: t.responseStart - r,
+          },
+          {
+            key: 'Parsing the Dom Tree',
+            desc: '\u89e3\u6790\u0064\u006f\u006d\u6811\u8017\u65f6',
+            value: t.domComplete - t.domInteractive,
           },
         ];
         console && console.log && console.log(n);

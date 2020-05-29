@@ -21,6 +21,6 @@ require('js-performance-analyse');
 
 ### Console output
 
-![发送的请求](https://oss.guangmangapp.com/6dfdb2fe-5a19-4d75-bc41-f53a1463252c.png)
+![发送的请求](https://oss.guangmangapp.com/c09ac68a-1e7b-4f75-8902-4cc0bca2e4e4.png)
 
 **If you have any questions, please contact me `3328921305@qq.com`**

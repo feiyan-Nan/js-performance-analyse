@@ -1,6 +1,6 @@
 {
   "name": "js-performance-analyse",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The js-performance-analyse library as Front-end performance monitoring",
   "main": "index.js",
   "scripts": {
